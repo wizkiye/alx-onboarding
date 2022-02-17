@@ -1,0 +1,12 @@
+This program calculate the sum of squares of given input of numbers
+
+
+number = ask_input "Please enter a number"
+sum = 0
+i = 1
+
+while(i <= n)
+  sum = sum + (i*i)
+  i = i + 1
+
+print_to_screen sum

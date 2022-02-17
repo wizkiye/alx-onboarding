@@ -1,0 +1,14 @@
+This program reads in three numbers and writes them all in sorted order
+
+Accept three numbers from user (a, b, c)
+
+
+If a > b then 
+interchange value of a and b
+If a > c then
+interchange value of a and c
+If b > c then
+interchange value of b and c
+
+finally display a, b, c
+end

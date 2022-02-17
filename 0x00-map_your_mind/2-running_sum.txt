@@ -1,0 +1,13 @@
+this program Calculate a running sum.
+
+SUM is 0
+LOOP is True
+
+While LOOP 
+   Read number NUM from user input.
+   if NUM is positive
+       SUM += NUM
+   else NUM is negative
+      Display SUM
+      set LOOP to False (break the loop)
+end
